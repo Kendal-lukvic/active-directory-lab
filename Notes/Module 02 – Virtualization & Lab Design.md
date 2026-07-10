@@ -1,29 +1,47 @@
 # Module 02 – Virtualization & Lab Design
 
-## Status
+# Virtual Infrastructure
 
-🟨 In Progress
+## DC-01
+
+Operating System
+
+Windows Server 2022
+
+Role
+
+Primary Domain Controller
+
+Responsibilities
+
+- Active Directory
+- DNS
+- User Authentication
+- Group Policy
+- Centralized Administration
+
+Status
+
+Not Deployed
 
 ---
 
-## Objective
+## CLIENT-VM-01
 
-Understand virtualization and design the enterprise lab environment.
+Operating System
 
----
+Windows 11 Enterprise
 
-## Notes
+Role
 
-(To be completed during the module.)
+Enterprise Employee Workstation
 
----
+Responsibilities
 
-## Lab Progress
+- Join Active Directory Domain
+- Test Group Policy
+- Test User Authentication
 
-(Not started)
+Status
 
----
-
-## Questions I Still Have
-
-(To be completed during the module.)
+Planned

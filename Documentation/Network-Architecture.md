@@ -2,22 +2,8 @@
 
 ## Current Architecture
 
-                     Internet
-                         │
-                    Home Router
-                         │
-        ┌────────────────┴────────────────┐
-        │                                 │
- IT-ADMIN-01                      CLIENT-01
- Windows 11 Home                  Windows Client
- (Primary Admin PC)               (Employee PC)
-        │
-        │
-        ▼
-      DC-01
- Windows Server 2022
- Domain Controller
-
+  <img width="418" height="351" alt="image" src="https://github.com/user-attachments/assets/30b20d92-be37-4b26-94b4-520094820c37" />
+                    
 ---
 
 ## Device Roles

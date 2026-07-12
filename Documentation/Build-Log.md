@@ -33,3 +33,21 @@ A Domain Controller provides centralized authentication and identity management 
 Expected Result
 
 A functional Windows Server virtual machine ready for Active Directory deployment.
+
+## Build 003
+
+### Objective
+
+Install Windows Server 2022 on DC-01.
+
+### Installation Type
+
+Custom (Clean Installation)
+
+### Reason
+
+The virtual hard disk is empty and does not contain an existing operating system. A clean installation is required to deploy a new Windows Server instance.
+
+### Expected Result
+
+Windows Server 2022 is installed on the virtual hard disk, and DC-01 boots successfully from the VDI instead of the ISO image.

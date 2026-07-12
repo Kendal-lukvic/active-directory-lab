@@ -29,19 +29,19 @@ By the end of this module, I should be able to:
 
 ## Why Desktop Experience? 
 
-My explanation: Adeskstop Experience is a Windows Setup that comes with a GUI which makes the user experience much easy and comfortable.
+My explanation: Adeskstop Experience is a Windows Setup that comes with a GUI, which makes the user experience much easier and more comfortable.
 
 ---
 
 ## Why Custom Installation?
 
-My explanation: Custom Installation allows a clean installation. This means it allows the file system of our Windows Server to be downloaded to the empty VDI (virtual hard disk) of our virtual machine. On the other hand, an upgrade installation allows just updating the operating system that was already installed in a VDI.
+My explanation: Custom Installation allows a clean installation. This means it allows the file system of our Windows Server to be downloaded to the empty VDI (virtual hard disk) of our virtual machine. On the other hand, an upgrade installation only updates the operating system already installed in a VDI.
 
 ---
 
 ## Why 4 GB RAM?
 
-My explanation: The host computer has a total of 8GB of RAN and allocating no more to 4GB RAN  to our Virtual Machine was in order to prevent our host com puter to run out of resource and becoming unresponsive. 
+My explanation: The host computer has a total of 8GB of RAN, and we allocated 4GB to our Virtual Machine to prevent the host from running out of resources and becoming unresponsive. 
 
 ---
 

@@ -51,3 +51,16 @@ The virtual hard disk is empty and does not contain an existing operating system
 ### Expected Result
 
 Windows Server 2022 is installed on the virtual hard disk, and DC-01 boots successfully from the VDI instead of the ISO image.
+## Build 003
+
+### Status
+
+✅ Windows Server installation completed successfully.
+
+### Current Phase
+
+Initial operating system configuration.
+
+### Next Step
+
+Configure the built-in Administrator account and sign in for the first time.

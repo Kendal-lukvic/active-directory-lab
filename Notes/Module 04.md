@@ -118,6 +118,27 @@ Definition:
 
 Directory Services Restore Mode is a special recovery mode used to repair or restore Active Directory.
 
+## NetBIOS Name
+
+### DNS Domain Name (FQDN)
+
+lukvic.local
+
+### NetBIOS Name
+
+LUKVIC
+
+### Purpose
+
+The NetBIOS name is the short name of the Active Directory domain. It is primarily maintained for compatibility with older Windows systems and legacy applications.
+
+### Important
+
+The NetBIOS name identifies the domain, **not** a specific Domain Controller.
+
+Example:
+
+LUKVIC\kendal
 My own explanation:
 
 The DSRM password is used only when booting into recovery mode to perform maintenance or restore Active Directory after serious problems.
